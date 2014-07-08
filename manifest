@@ -1,0 +1,18 @@
+#
+# this is your module manifest and used by Titanium
+# during compilation, packaging, distribution, etc.
+#
+version: 1.0
+apiversion: 2
+description: My module
+author: Marcel Pociot
+license: MIT
+copyright: Marcel Pociot
+
+
+# these should not be edited
+name: webviewfragment
+moduleid: de.marcelpociot.webviewfragment
+guid: ce49d91a-9a85-4608-bb37-0dd75a6d4dff
+platform: android
+minsdk: 3.2.3.GA
